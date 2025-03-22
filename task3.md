@@ -41,7 +41,7 @@ reboot
 ```bash
 docker run hello-world
 ```
-![image](https://github.com/user-attachments/assets/7f55cdfd-b47d-4fec-93c5-59bebbeee6fb)
+
 
 
 ## Start and open Minikube
